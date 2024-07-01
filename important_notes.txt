@@ -1,0 +1,15 @@
+in this project the platform used for payment is "Stripe"
+
+but stripe is not available (banned) in Pakistan but you can use it by another "legal way"
+
+to use stripe account legally you have to open your company in UK or other country that supports "Stripe"
+
+your payment account, sim, and othr related things must from UK (bank, sim, etc)
+
+then you can make your account and get your "STRIPE_CLIENT_KEY" and "STRIPE_SERVER_KEY"
+
+after getting a stripe account you can follow this repo
+
+this payment integration requires
+
+"STRIPE_PUBLISHABLE_KEY" and "STRIPE_SECRET_KEY"

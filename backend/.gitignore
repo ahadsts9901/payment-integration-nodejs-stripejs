@@ -1,0 +1,9 @@
+app.yaml
+.DS_Store
+/node_modules
+.env
+.env_dev
+.env_prod
+rough.mjs
+/.clinic
+/uploads
